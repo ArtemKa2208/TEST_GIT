@@ -1,2 +1,2 @@
 # TEST_GIT
-master branch
+read branch
